@@ -42,14 +42,3 @@ main {
   -o-object-fit: contain;
   object-fit: contain;
 }
-
-.groover-iframe-wrapper {
-  position: relative;
-  height: 80px;
-}
-
-@media (min-width: 504px) {
-  .groover-iframe-wrapper {
-    height: 132px;
-  }
-}
